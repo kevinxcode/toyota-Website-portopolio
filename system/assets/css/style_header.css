@@ -1,0 +1,23 @@
+.side-widget {
+	margin-bottom: 33px;
+}
+
+.side-widget h5, .sw-twitter h5 {
+	background: url(images/sep.png) repeat-x center;
+	margin: 0 0 33px;
+}
+
+.side-widget h5 span, .sw-twitter h5 span {
+	background: #11699c;
+	height: 38px;
+	line-height: 38px;
+	padding: 0 20px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	font-family: Josefin Sans;
+	text-transform: uppercase;
+	display: table;
+	margin: 0 auto;
+}
